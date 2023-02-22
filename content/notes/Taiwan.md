@@ -22,11 +22,11 @@ title: "Taiwan"
 - [Raohe Night Market](https://goo.gl/maps/7MokMeMUPWwYjbw67)
 	- Taiwan is known for it's night markets and this is one of the best ones. Great opportunity to try many dishes like stinky rice, pork rib medicinal soup, black pepper bun and more.
 	- Check out this Eater article about it: [# Raohe Night Market Is Taipei’s Must-Hit Street Food Destination](https://www.eater.com/2019/3/6/18240098/raohe-night-market-taipei-best-dishes)
-	- [# 御品元冰火湯圓-台北饒河店](https://goo.gl/maps/MJTvpgyimz1FF8h98) is a storefront there has amazing tang yuan over ice (sesame balls). Definitely recommend stopping for dessert.
+	- [# 御品元冰火湯圓-台北饒河店](https://goo.gl/maps/MJTvpgyimz1FF8h98) is a storefront there that has amazing tang yuan over ice (sesame balls). Definitely recommend stopping for dessert.
 - [Din Tai Fung Xinyi Restaurant](https://goo.gl/maps/wWCzgZNSE7E68DRp7)
 	- A must have in Taiwan and not just for the soup dumplings, everything is amazing there.
 - [Guiji Taipei Nanxi](https://goo.gl/maps/a5HdmS6z87YN5p3M7)
-	- You can get good boba anywhere really but this is a pretty good one if you happen to be in the neighborhood. 
+	- You can get good boba anywhere really but this is a pretty good one if you happen to be in the neighborhood.
 	- I got the red oolong milk tea.
  - [Tian Jin Onion Pancake](https://goo.gl/maps/P6s4jpgHa5zhh79Y6)
 	 - Street stall selling fluffy scallion pancake with egg!
