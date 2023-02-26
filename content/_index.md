@@ -5,3 +5,4 @@ enableToc: false
 
 Places
 - [[notes/Taiwan]]
+- [[notes/Paris]]
