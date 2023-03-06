@@ -1,3 +1,7 @@
+---
+title: Japan
+---
+
 I haven't been to Japan in a while so a lot of them are recommendations from others that I trust.
 
 ## Tokyo
@@ -42,7 +46,7 @@ Noodles
 - [Little Nap Coffee Roasters](https://goo.gl/maps/sMGD2JDEbNM5319o6)*
 - [Cream of the Crop Coffee](https://goo.gl/maps/MiYB1pMTDRMbktjP7)*
 - [About Life Coffee Brewers](https://goo.gl/maps/6PVb5WRTtd8Vs7tE6)*
-* [Fuglen Tokyo](https://goo.gl/maps/VhXESn8ZJqJhHuTg7)*
+- [Fuglen Tokyo](https://goo.gl/maps/VhXESn8ZJqJhHuTg7)*
 
 #### Shops
 - [Fog Linen Work](https://goo.gl/maps/UXkkvaiSXnG3vf8PA)

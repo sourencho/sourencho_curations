@@ -1,6 +1,8 @@
 ---
-title: "Paris"
+title: "France"
 ---
+
+## Paris
 
 #### Food
 
@@ -14,7 +16,7 @@ title: "Paris"
 - [Ethiopia Restaurant](https://maps.app.goo.gl/GL37hry4PXidkrfc9?g_st=ic)
 	- Great Etheopian food. Better than the places I've had in the states.
 	- Very easy to order, you just get the combo.
-- [Deviant]()
+- [Deviant](https://maps.app.goo.gl/rxVCthdNRvmdDr517?g_st=ic)
 	- Natural wine bar with amazing Italian tapas. Gets busy so try to snag a table right when it opens. Order bottles not glasses ;)
 	- If it doesn't work out, try [Vivant 2](https://maps.app.goo.gl/ZcHMSDWtAZdrYz7PA?g_st=ic) down the street.
 - [Du Pain et des Idées](https://maps.app.goo.gl/K2fr3m1DXFCx6kqr7)
