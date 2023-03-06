@@ -50,13 +50,15 @@ Noodles
 
 ## Kyoto
 
-Food
+#### Food
+
 -  [はなまる串カツ製作所](http://tabelog.com/en/kyoto/A2601/A260101/26018242/?rvwid=6186436) 🍶
     - Cozy, authentic Izakaya - cozy with delicious deep fried finger food and drinks. Go at night, wait out the line.
 - [Kyogaku Kaneyo](http://kyotofoodie.com/kaneyo-kyoto-unagi-eel-restaurant/)
     -   A long-loved eel restaurant from the taisho era. They've been in business for around 100 years. This place is a **must**.
 
-Temples & Shrines
+#### Temples & Shrines
+
 -   [Kiyomizu-dera](https://goo.gl/maps/ojZq1Kd7pCayRH5g8)
     -  A really cool temple overlooking Kyoto with lots of  religious artifacts.
 - [Fushimi Inari Taisha](https://goo.gl/maps/UoJo9LHBRDgC1VAs5)
@@ -70,5 +72,7 @@ Temples & Shrines
     -   Amazing moss garden. Need to apply for visitor passes, long process but pays off.
 -   [Ryoan-ji](https://en.wikipedia.org/wiki/Ry%C5%8Dan-ji)*
     -   One of the first, if not the first, Zen temple. It is a large complex with a cool rock garden etc.
+
+---
 
 *haven't been myself but recommended by someone I trust!

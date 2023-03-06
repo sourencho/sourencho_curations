@@ -1,7 +1,9 @@
 ---
-title: sourencho curations
+title: sourencho's curations
 enableToc: false
 ---
+
+Lists of places I recommend :)
 
 Places
 - [[notes/Taiwan]]
