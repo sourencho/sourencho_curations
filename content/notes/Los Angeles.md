@@ -13,5 +13,3 @@ title: Los Angeles
 
 - [Mini Kabob](https://maps.app.goo.gl/x9uxseVHHCkEoY1T8?g_st=ic)
 	- Best Armenian grilled meats and rice. Hole in the wall in Glendale that's been popularized by NYT.
-- [MOTO SUSHI](https://maps.app.goo.gl/RTPDJZj2dFuU76gK9)
-	- Great sushi

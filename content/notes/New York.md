@@ -5,6 +5,7 @@ title: New York
 ## Manhattan
 
 #### Food
+
 - [Cervo's](https://maps.app.goo.gl/Vp2KkHLa3zNqepwA7?g_st=ic)
 	- Wine bar style excellent seafood
 	- One of my favorites
@@ -12,6 +13,9 @@ title: New York
 	- Causal Malaysian spot with amazing pandas dessert!
 - [NUBIANI](https://maps.app.goo.gl/AvD5PeMKH84nYj9Y6?g_st=iw)
 	- Expensive but amazing kbbq spot in a nice setting. Even has tables for two ;)
+
+Pizza
+- [Scarr's](https://goo.gl/maps/3zidcpTq8CS1PLKa9)
 
 #### Coffee
 
@@ -25,6 +29,14 @@ title: New York
 	- Great Persian food in a hip setting.
 - [Taqueria Ramirez](https://maps.app.goo.gl/PqQRnsor5HvXDjuQA?g_st=ic)
 	- Mexico City style tacos
+- [East Harbor Seafood Palace](https://maps.app.goo.gl/EcJEmjwNr2xe4Uwz9?g_st=ic)
+	- Best dim sum in NYC
+
+Pizza
+- [L'Industrie Pizzeria](https://goo.gl/maps/ruKCs7fqxyQbtRf98)
+	- Nice cripsy pizza with really good buratta
+- [Salsa](https://goo.gl/maps/aaU6w3GDxiRJvWmt6)
+	- A bit pricy but delicious sit down pizza
 
 ## Queens
 
