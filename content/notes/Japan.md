@@ -60,6 +60,8 @@ Noodles
     - Cozy, authentic Izakaya - cozy with delicious deep fried finger food and drinks. Go at night, wait out the line.
 - [Kyogaku Kaneyo](http://kyotofoodie.com/kaneyo-kyoto-unagi-eel-restaurant/)
     -   A long-loved eel restaurant from the taisho era. They've been in business for around 100 years. This place is a **must**.
+- [Monk](https://maps.app.goo.gl/N3rtFWGdhp8VuErj8?g_st=ic)*
+	- Seasonal pizzas and dishes from famous chef Imai. 7 course meal. Watch Chefs Tapble Pizza episode about it.
 
 #### Temples & Shrines
 
