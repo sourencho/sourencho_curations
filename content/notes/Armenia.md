@@ -22,11 +22,9 @@ title: "Armenia"
 - [Lumen Coffee](https://goo.gl/maps/SxUQ77Y9jDnmNPZw6)
 - [Mirzoyan Library](https://goo.gl/maps/ZmYZHdtVHnLxraRj8)
 
-#### Bars
+#### Misc
 - [Esthetic Joys Embassy / ПЭУ](https://goo.gl/maps/PmvmK5g7bEUsd1CYA)
 	- Hip spot with outdoor seating and indoor DJs
-
-#### Misc
 - [Cone](https://goo.gl/maps/7reG77zabqxbQzzd6)
 	- Nice store with craft goods
 - [Sergei Paradjanov Museum](https://goo.gl/maps/uC3TLSUeCbAHJQNm9)
@@ -70,3 +68,5 @@ title: "Armenia"
 	- My favorite monasteries.
 	- Beautiful drive in the spring.
 	- Stay at  [B&B Odzun](https://goo.gl/maps/36EMLWWwF8PzQHCL9) after.
+- [Bazarchay village cemetery](https://goo.gl/maps/tvL1GGkMHc835Zoe8)
+	- Interesting cemetery on the way to Tatev
