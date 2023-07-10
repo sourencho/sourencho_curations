@@ -25,6 +25,8 @@ Pizza
 ## Brooklyn
 - [Karazishi Botan](https://maps.app.goo.gl/ur1wr59RcDbPF2nR8?g_st=ic)
 	- Good ramen, especially the summer tsukumen.
+- [Nabila's](https://goo.gl/maps/bQx74CDNAqYVGiFHA)
+	- Amazing, home cooked style Lebanese food in a kinda fancy seting.
 - [Eyval](https://maps.app.goo.gl/vMjg3GxpTzmFrdFG8?g_st=ic) 
 	- Great Persian food in a hip setting.
 - [Taqueria Ramirez](https://maps.app.goo.gl/PqQRnsor5HvXDjuQA?g_st=ic)

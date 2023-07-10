@@ -5,14 +5,12 @@ title: "Armenia"
 ## Yerevan
 
 #### Food
-- [Rehan Restaurant](https://goo.gl/maps/MYunGatUTk2zsPxD7)
-	- Nice outdoor seating
-	- Western Armenian / Lebanese
 - [Taboule Restaurant](https://goo.gl/maps/rBWmkWwSuEwa11dq9) or [Shaghig Yerevan](https://goo.gl/maps/b5j1ZM5xp4GBXJDf7)
 	- Two good Lebanese spots right next to each other
 - [Zeituna Home Of Food](https://goo.gl/maps/Xio1LkfNdVg6GEQNA)
 	- Syrian
 - [Lahmajun Gaidz](https://goo.gl/maps/68bcstFKzF7Re37B8)
+	- I haven't been since they relocated but used to be great
 - [Dolmama - Armenia's Restaurant](https://goo.gl/maps/nz2r5mhm7W2WgCge9)
 	- Fine dining with good dolma
 
