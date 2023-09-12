@@ -1,0 +1,13 @@
+- [Pastéis de Belém](https://goo.gl/maps/L3gRveiaeDzqAVEM6)
+	- Delicious, warm egg tarts
+- [Alcôa](https://goo.gl/maps/Nuy9dtA6KLpxDTQr8)
+	- More egg tarts and other pastries
+- [Landeau Chocolate](https://goo.gl/maps/3M6RUmQ53Xixm4pS7)
+	- Best chocolate cake in the world
+	- Has a second location at [LX Factory](https://goo.gl/maps/wqEppy1L2cB3u9AV9)
+- [Taberna Portuguesa](https://goo.gl/maps/6QxiUSjMPptgeSqp9)
+	- Kinda fancy tavern style dishes
+- [Churrasqueira De Sapadores](https://goo.gl/maps/wcu5bLRWWWuwoxHfA)
+	- Lowkey spot with traditional chicken/fish and potatoes
+- [Cortiço & Netos](https://goo.gl/maps/TcySPhm4dKe1Bt4x6)
+	- Super cool tile store

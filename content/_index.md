@@ -12,3 +12,6 @@ Places
 - [[notes/France]]
 - [[notes/Los Angeles]]
 - [[notes/New York]]
+- [[Barcelona]]
+- [[Portugal]]
+
