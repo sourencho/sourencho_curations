@@ -3,9 +3,9 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "sourencho places",
-    enableSPA: true,
-    enablePopovers: true,
+    pageTitle: "sourencho curations",
+    enableSPA: false,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
@@ -51,7 +51,6 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Latex({ renderEngine: "katex" }),
-      Plugin.Description(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
@@ -62,7 +61,7 @@ const config: QuartzConfig = {
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
-        enableRSS: true,
+        enableRSS: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),

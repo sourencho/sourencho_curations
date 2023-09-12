@@ -1,5 +1,5 @@
 ---
-title: sourencho's curations
+title: 🐧
 enableToc: false
 ---
 
