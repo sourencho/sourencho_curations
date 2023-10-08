@@ -47,7 +47,7 @@ Misc suggestions
  - [ChaCha Hana](https://maps.app.goo.gl/rMjEC7kU4jRFkebo6)*
 	 - Sashimi suggested by Alex
  - [# ふくや 京都（日本酒・山形そば)](https://maps.app.goo.gl/aMauPE9g2ctykVX99)*
-	 - Suggested by Salvador
+	 - Yamagata style thick soba suggested by Salvador
 
 #### Coffee
 - [Koffee Mameya](https://goo.gl/maps/YSZpH9szzxkySm32A)
