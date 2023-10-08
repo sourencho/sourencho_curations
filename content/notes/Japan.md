@@ -39,6 +39,16 @@ Noodles
 	- Lamb based ramen soup
 - [Ohzeki Chuka-Soba Restaurant](https://goo.gl/maps/FAGkpeEZePNsiL718)*
 
+Misc suggestions
+ - [呑喰屋 すぱいす](https://maps.app.goo.gl/vRZq6NuYnjEtTUiq6)*
+	 - Izakaya suggested by Alex
+ - [Fujiki Ikejiri-Ōhashi](https://maps.app.goo.gl/hEZUNGW2CHAf18J57)*
+	 - Tonkotsu suggested by Alex
+ - [ChaCha Hana](https://maps.app.goo.gl/rMjEC7kU4jRFkebo6)*
+	 - Sashimi suggested by Alex
+ - [# ふくや 京都（日本酒・山形そば)](https://maps.app.goo.gl/aMauPE9g2ctykVX99)*
+	 - Suggested by Salvador
+
 #### Coffee
 - [Koffee Mameya](https://goo.gl/maps/YSZpH9szzxkySm32A)
 	- Super specialty coffee. Only drip.
