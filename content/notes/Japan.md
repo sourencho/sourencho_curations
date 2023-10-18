@@ -40,6 +40,7 @@ Noodles
 - [Ohzeki Chuka-Soba Restaurant](https://goo.gl/maps/FAGkpeEZePNsiL718)*
 
 #### Coffee
+- [Glitch](https://maps.app.goo.gl/ofTutUygBkccYYAw6)
 - [Koffee Mameya](https://goo.gl/maps/YSZpH9szzxkySm32A)
 	- Super specialty coffee. Only drip.
 - [Onibus Coffee](https://goo.gl/maps/M4xyUqqH2Mhwyq4M9)*
@@ -47,6 +48,7 @@ Noodles
 - [Cream of the Crop Coffee](https://goo.gl/maps/MiYB1pMTDRMbktjP7)*
 - [About Life Coffee Brewers](https://goo.gl/maps/6PVb5WRTtd8Vs7tE6)*
 - [Fuglen Tokyo](https://goo.gl/maps/VhXESn8ZJqJhHuTg7)*
+- [Coffee Counter Nishiya](https://maps.app.goo.gl/1PEmDHuPpeARTV786)
 
 #### Shops
 - [Fog Linen Work](https://goo.gl/maps/UXkkvaiSXnG3vf8PA)
