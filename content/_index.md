@@ -10,8 +10,9 @@ Places
 - [[notes/Japan]]
 - [[notes/Taiwan]]
 - [[notes/France]]
-- [[notes/Los Angeles]]
-- [[notes/New York]]
 - [[Barcelona]]
 - [[Portugal]]
+- [[notes/Los Angeles]]
+- [[notes/New York]]
+- [[San Francisco]]
 
