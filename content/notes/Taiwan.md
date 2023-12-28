@@ -4,6 +4,7 @@ title: "Taiwan"
 
 ## Taipei
 
+Special thanks to Wen for many of these suggestions!
 #### Food
 
 - [San Jiao Bing](https://goo.gl/maps/EwfqbUZr677yun3c9)
@@ -33,6 +34,32 @@ title: "Taiwan"
 	- I got the red oolong milk tea.
  - [Tian Jin Onion Pancake](https://goo.gl/maps/P6s4jpgHa5zhh79Y6)
 	 - Street stall selling fluffy scallion pancake with egg!
+- [泔 米食堂](https://maps.app.goo.gl/WGvrgGSSabw42q1W6)
+	- A sort of hidden place that has a clean tasting, farm to table style set menu. Might need to call in advanced for a reservation.
+- [Shin Yeh Taiwanese Cuisine](https://maps.app.goo.gl/buD5cYQPaDobqyYi7)
+	- Staple restaurant serving traditional taiwanese dishes done well. Definitely get the three cup chicken, radish omelette and almond tofu dessert.
+- [Cabbage Rice and Pork Rib Soup](https://maps.app.goo.gl/kSpnTd9MjrDRq4q17)*
+	- "The cabbage rice and pork rib soup is amazing!! The food are so pure and fresh, it’s good for a light meal or getting yourself ready to explore Yangping North Road night market. Since they might not speak English, you can show them this: 「高麗菜飯和排骨湯一份」" - Wen
+- [柴寮仔米苔目](https://maps.app.goo.gl/tcgjtLajdhuks2KQ8)
+	- "This place is a local favorite and known for their rice noodle (dry and soup ones are both good) and their appetizers. Daikon, tofu are delicious but you gotta try some pork like 肝連肉 or 嘴邊肉, somehow taiwan pork is just less smelly and more delicious." - Wen
+- [時寓](https://maps.app.goo.gl/9d84W2sSWJC1huLz5)*
+	- Really good beef noodle place!
+
+#### Coffee Shops
+Taipei has really good coffee and cozy bookstores to relax at! They open late but also close late ;)
+
+- [浮光書店](https://maps.app.goo.gl/AyCSfcbG9LqVsReV9)
+	- Really nice bookstore to spend some time at. Vibes as good as their warm milk tea. Right next to it is the more serious version with really old-school decoration [北風社](https://maps.app.goo.gl/B7zwjimdX59dWm4s7).
+- [PARC CAFE 泊咖啡](https://maps.app.goo.gl/JwGnn28GXLbudthr5)
+	- There are good coffee shops everywhere but if you happen to be in this neighborhood, they have the best latte I've tried in Taipei. And you might see their cute husky!
+- [Halfway Coffee](https://maps.app.goo.gl/pTeSE9fy1isPvBx18?g_st=ia)
+	- Indie cafe where students go to study. Lots of seating and cozy drinks.
+	- Check out the indie comic book store [Mangasick](https://maps.app.goo.gl/2P8jHS8uGxM1tMQV9) nearby.
+- [boven](https://maps.app.goo.gl/2TKHDZburEsbC8vGA)
+	- Very nice magazine bookstore. Staying for the day is a bit pricey but definitely worth taking a peak. Make sure to also check out the famous [moom](https://maps.app.goo.gl/8erYHmotgou8H4gS7) photo bookstore nearby.
+- [Wisteria Tea House](https://maps.app.goo.gl/Gg9VHBkuwjtuLpbLA)*
+- [woodensounds & Garnet Cru](https://maps.app.goo.gl/tE9aFiyhF9pGF6eK9)*
+- [ Simple Kaffa Flagship Store](https://maps.app.goo.gl/xjDCxUi1UwDa3pSb6)
 
 ## Tainan
 
@@ -41,14 +68,11 @@ Tainan is definitely worth doing a trip to via the high speed rail. It's the foo
 #### Food
 
 - [無名米糕](https://goo.gl/maps/wMm2TkmRfU9RwWbc9)
-	- My favorite meal in Taiwan was at this little shop in an alley that usually has a line. They serve traditional taiwanese dishes in small bowls.
+	- Little shop in an alley that serves traditional taiwanese/tainanese dishes in small bowls.
 	- Get the sticky rice with minced pork and fish floss rice, oyster vermicelli, milkfish belly vermicelli with soup, one of the noddles, nabeyaki egg noodles, boiled vegetables (yam leaves), pan-fried milkfish belly, a soup and some braised items (bean curd and more).
-	- I had to copy the chinese characters off the menu onto the little paper they gave me but maybe there is an easier way to order.
 - [BĀN TÊ](https://goo.gl/maps/zY6Py5o7uou67jXG9)
 	- High quality amazing boba spot. I would get the iced hojicha tea with pearls. They don't make them very sweet so I recommend getting higher than default sweetness.
-- [# 阿江鱔魚意麵](https://goo.gl/maps/caXqUg1jQPHvUfd36)*
-	- Tainanese eel noodles.
 
 ---
 
-*haven't been myself but recommended by someone I trust!
+\* haven't been myself but recommended by someone I trust!
