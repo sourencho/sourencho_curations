@@ -8,8 +8,11 @@ title: Los Angeles
     - Green whole fish dish is amazing!
 - [Tire Shop Taqueria](https://maps.app.goo.gl/aq7eSpqzh9GnX5vr7?g_st=ic)
     - Exactly what it sounds like. Taqueria in a parking lot of a tire shop. Best street tacos I've had in LA.
-- Homestate
+- [Homestate](https://maps.app.goo.gl/s4uEpMDgdWtFsBCz8)
     - Flour tortilla, queso, pecos
+    - Go to the Juice for smoothy after
+- [The Juice](https://maps.app.goo.gl/gmNkYjc1VW7fs1Pk6)
+    - Marc's order: #13 with Vanilla cashew cream ice cream (dairy free)
 - Sqrl
     - Sorrel bowl with bacon
 
