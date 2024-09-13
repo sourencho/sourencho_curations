@@ -15,9 +15,14 @@ title: Los Angeles
     - Marc's order: #13 with Vanilla cashew cream ice cream (dairy free)
 - Sqrl
     - Sorrel bowl with bacon
+- [Courage Bagels](https://maps.app.goo.gl/G3BGhvtDript3CiLA)*
 
 
 ## Glendale 
 
 - [Mini Kabob](https://maps.app.goo.gl/x9uxseVHHCkEoY1T8?g_st=ic)
 	- Best Armenian grilled meats and rice. Hole in the wall in Glendale that's been popularized by NYT.
+
+---
+
+_*haven't been myself but recommended by someone I trust!_
