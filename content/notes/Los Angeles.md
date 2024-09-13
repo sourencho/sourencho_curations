@@ -13,7 +13,7 @@ title: Los Angeles
     - Go to the Juice for smoothy after
 - [The Juice](https://maps.app.goo.gl/gmNkYjc1VW7fs1Pk6)
     - Marc's order: #13 with Vanilla cashew cream ice cream (dairy free)
-- Sqrl
+- [Sqrl](https://maps.app.goo.gl/saB7Um3UgXgKrt3t7)
     - Sorrel bowl with bacon
 - [Courage Bagels](https://maps.app.goo.gl/G3BGhvtDript3CiLA)*
 
