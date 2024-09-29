@@ -1,12 +1,19 @@
 ## Seoul
 
 Links are Naver instead of Google Maps because the latter doesn't work well in Korea.
+
+### Do
+- [The Park Spa Land](https://naver.me/58NyIUaq)
+	- Co-ed dry area where you can do saunas, chill on your phone, get drinks/dessert and even eat.
+	- Naked bath with lots of hot and cold pools. Wet saunas too.
+	- Really wholesome place and a nice cultural experience. 
 ### Cafe
 
 - [Cotton/Kotton](https://naver.me/xgNZzvCL) 
 	- Very special lattes
 - [Fritz](https://naver.me/FJbEzN3D)
-	- Delicious coffee in a cool building / outdoor space 
+	- Delicious coffee in a cool building / outdoor space.
+	- Get iced magnolia berry (omija) tea. Omija means "five flavors", which are sweetness, sourness, bitterness, saltiness, and pungency.
 
 ## Food
 
