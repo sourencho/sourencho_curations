@@ -15,4 +15,5 @@ Places
 - [[notes/Los Angeles]]
 - [[notes/New York]]
 - [[San Francisco]]
+- [[Korea]]
 
