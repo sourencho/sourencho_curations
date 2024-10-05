@@ -7,6 +7,7 @@ Links are Naver instead of Google Maps because the latter doesn't work well in K
 	- Co-ed dry area where you can do saunas, chill on your phone, get drinks/dessert and even eat.
 	- Naked bath with lots of hot and cold pools. Wet saunas too.
 	- Really wholesome place and a nice cultural experience. 
+
 ### Cafe
 
 - [Cotton/Kotton](https://naver.me/xgNZzvCL) 
@@ -22,4 +23,11 @@ Links are Naver instead of Google Maps because the latter doesn't work well in K
 - [Han Gonggan](https://naver.me/FJbEzN3D)
 	- Special little restaurant with home-cooked style korean dishes
 	- Message them on [instagram](https://www.instagram.com/hangonggan/) for reservations. They only have a couple of tables.
+- [Hanilkwan](https://naver.me/FlZOMk2O)
+  - Corporate vibes but amazing Seoul food that comes in sets. Great way to try many dishes with high quality ingredients.
+  - There are other branches too.
 
+## Dessert
+
+- [Dongbinggo](https://naver.me/IxsdzUxD)
+  - Amazing bingsu in a cozy little place
