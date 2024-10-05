@@ -15,7 +15,7 @@ Links are Naver instead of Google Maps because the latter doesn't work well in K
 - [Fritz](https://naver.me/FJbEzN3D)
 	- Delicious coffee in a cool building / outdoor space.
 	- Get iced magnolia berry (omija) tea. Omija means "five flavors", which are sweetness, sourness, bitterness, saltiness, and pungency.
- - There are several branches.
+  - There are several branches.
 
 ## Food
 
@@ -27,8 +27,16 @@ Links are Naver instead of Google Maps because the latter doesn't work well in K
 - [Hanilkwan](https://naver.me/FlZOMk2O)
   - Corporate vibes but amazing Seoul food that comes in sets. Great way to try many dishes with high quality ingredients.
   - There are other branches too.
+- [Jinmi Sikdang](https://naver.me/Gn0IfU1V)
+  - Raw marinated crab. Very special.
+  - Call in advamced or go in person to get reservation. Very booked up.
 
 ## Dessert
 
 - [Dongbinggo](https://naver.me/IxsdzUxD)
   - Amazing bingsu in a cozy little place
+
+
+## Misc
+
+- 근처pc방
