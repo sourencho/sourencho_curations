@@ -15,9 +15,10 @@ Links are Naver instead of Google Maps because the latter doesn't work well in K
 - [Fritz](https://naver.me/FJbEzN3D)
 	- Delicious coffee in a cool building / outdoor space.
 	- Get iced magnolia berry (omija) tea. Omija means "five flavors", which are sweetness, sourness, bitterness, saltiness, and pungency.
-  - There are several branches.
+ - There are several branches.
+ - The chocolate filled donut!
 
-## Food
+### Food
 
 - [Tonguidong Gukbingwan](https://naver.me/5PVBYGju)
 	- Great beef KBBQ spot right next to Gyeongbokgung Palace
@@ -31,12 +32,12 @@ Links are Naver instead of Google Maps because the latter doesn't work well in K
   - Raw marinated crab. Very special.
   - Call in advamced or go in person to get reservation. Very booked up.
 
-## Dessert
+### Dessert
 
 - [Dongbinggo](https://naver.me/IxsdzUxD)
   - Amazing bingsu in a cozy little place
 
 
-## Misc
+### Misc
 
 - 근처pc방
