@@ -15,6 +15,7 @@ Links are Naver instead of Google Maps because the latter doesn't work well in K
 - [Fritz](https://naver.me/FJbEzN3D)
 	- Delicious coffee in a cool building / outdoor space.
 	- Get iced magnolia berry (omija) tea. Omija means "five flavors", which are sweetness, sourness, bitterness, saltiness, and pungency.
+ - There are several branches.
 
 ## Food
 
