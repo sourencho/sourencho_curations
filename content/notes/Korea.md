@@ -24,8 +24,10 @@ Links are Naver instead of Google Maps because the latter doesn't work well in K
 - [Tonguidong Gukbingwan](https://naver.me/5PVBYGju)
 	- Great beef KBBQ spot right next to Gyeongbokgung Palace
 - [Han Gonggan](https://naver.me/FJbEzN3D)
-	- Special little restaurant with home-cooked style korean dishes
-	- Message them on [instagram](https://www.instagram.com/hangonggan/) for reservations. They only have a couple of tables.
+  - Special little restaurant with home-cooked style korean dishes
+  - Very nice drinks too
+  - Came here twice :P
+  - Message them on [instagram](https://www.instagram.com/hangonggan/) for reservations. They only have a couple of tables.
 - [Hanilkwan](https://naver.me/FlZOMk2O)
   - Corporate vibes but amazing Seoul food that comes in sets. Great way to try many dishes with high quality ingredients.
   - There are other branches too
