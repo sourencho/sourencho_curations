@@ -32,6 +32,9 @@ Links are Naver instead of Google Maps because the latter doesn't work well in K
 - [Jinmi Sikdang](https://naver.me/Gn0IfU1V)
   - Raw marinated crab. Very special
   - Call in advamced or go in person to get reservation. Very booked up
+- [Kkupdang](https://naver.me/xDJFyFxd)
+  - Fantastic grilled pork with yummy rice.
+  - They have special cuts like shoulder, cheek and back rib.
 
 ### Dessert
 
